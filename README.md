@@ -1,4 +1,4 @@
-Recull d'eines per creació de corpus a partir de scraping.
+Recull d'eines per creació de corpus a partir de scraping. Explicat a `eines.pdf`.
 
 # Twitter
 
